@@ -14,43 +14,27 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Software Developer</h4>
+                <h5>VKInnovation</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
+              Worked on university platforms for UoPeople, including academic progress tracking, degree audit configuration, and document shipment tracking. Built scalable web applications using React.js, C#, Azure, and CRM. Developed responsive interfaces and backend integrations.Created responsive UI/UX
               and designed wireframes using Figma.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Scrum Master</h4>
+                <h5>(Additional Responsibility)</h5>
+                <h5>VKInnovation</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Managed project scope and timelines while coordinating Agile ceremonies including sprint planning, retrospectives, and daily stand-ups. Ensured high-quality deliverables at the end of each sprint by maintaining development standards and team alignment. Collaborated closely with senior stakeholders across teams to deliver projects on time and maintain strong product quality.
             </p>
           </div>
         </div>

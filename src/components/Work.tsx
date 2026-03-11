@@ -2,37 +2,43 @@ import { useState, useCallback } from "react";
 import "./styles/Work.css";
 import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
+import MyAcademicProgressIMG from "../assets/images/My_Academic-Progress.png";
+import DataCopyUtilityIMG from "../assets/images/data_copy_utility.png";
+// import DTDCUiIMG from "../assets/images/dtdc.png";
+import BigInterviewIMG from "../assets/images/Big-interview.png";
+import DAC from "../assets/images/DAC.png";
+import RuchiSnacksIMG from "../assets/images/Ruchi_Snack.png";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
-    image: "/images/Solidx.png",
+    title: "My Academic Progress",
+    category: "Academic",
+    tools: "React.js, TypeScript, Azure, C#, GitHubDesktop",
+    image: MyAcademicProgressIMG,
+  },
+
+  {
+    title: "Degree Audit Designer",
+    category: "Tool for Academic Officers",
+    tools: "React.js, TypeScript, Azure, C#, GitHubDesktop",
+    image: DAC,
+  }, {
+    title: "Data-Copy Utlity",
+    category: "Internal tool for UAT & Development team",
+    tools: "React.js, TypeScript, Azure, C#, GitHubDesktop",
+    image: DataCopyUtilityIMG,
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
-    image: "/images/radix.png",
+    title: "Big-interview",
+    category: "Mock Interview Platform",
+    tools: "React.js, TypeScript, Azure, C#, GitHubDesktop",
+    image: BigInterviewIMG,
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
-    image: "/images/bond.png",
-  },
-  {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
-    image: "/images/sapphire.png",
-  },
-  {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
+    title: "Ruchi Snacks",
+    category: "Freelance project for snck shop",
+    tools: "Next.js, TypeScript,  GitHubDesktop",
+    image: RuchiSnacksIMG,
   },
 ];
 
