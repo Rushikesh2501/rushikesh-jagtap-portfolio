@@ -5,7 +5,7 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 import MyAcademicProgressIMG from "../assets/images/My_Academic-Progress.png";
 import DataCopyUtilityIMG from "../assets/images/data_copy_utility.png";
 // import DTDCUiIMG from "../assets/images/dtdc.png";
-import BigInterviewIMG from "../assets/images/Big-interview.png";
+import BigInterviewIMG from "../assets/images/Big-Interview.png";
 import DAC from "../assets/images/DAC.png";
 import RuchiSnacksIMG from "../assets/images/Ruchi_Snack.png";
 
